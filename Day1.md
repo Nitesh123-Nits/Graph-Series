@@ -1,4 +1,4 @@
-📚 Mastering Graphs: Pattern-Based Blog Series
+# 📚 Mastering Graphs: Pattern-Based Blog Series
 
 ### **Blog 1: Graph Fundamentals & Representations**
 
