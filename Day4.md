@@ -1,4 +1,4 @@
-#📘 Blog 3: DFS Pattern (Path Exploration, Connectivity, Components) 🌐
+# 📘 Blog 3: DFS Pattern (Path Exploration, Connectivity, Components) 🌐
 
 
 ## 🔹 Why DFS Matters?
